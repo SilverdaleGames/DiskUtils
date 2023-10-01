@@ -9,9 +9,9 @@ namespace Silverdale.DiskUtils
         static DiskUtils()
         {
 #if UNITY_ANDROID && !UNITY_EDITOR
-        instance = new AndroidDiskUtils();
+            instance = new AndroidDiskUtils();
 #elif UNITY_IOS && !UNITY_EDITOR
-        instance = new IOSDiskUtils();
+            instance = new IOSDiskUtils();
 #else
             instance = new EditorDiskUtils();
 #endif
