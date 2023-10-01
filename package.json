@@ -1,0 +1,14 @@
+{
+    "name": "com.silverdale.disk-utils",
+    "version": "1.2.5",
+    "unity": "2020.1",
+    "displayName": "DiskUtils",
+    "keywords": ["Diks", "iOS", "Android", "Storage"],
+    "description": "Disk utils for iOS and Android",
+    "author": {
+      "name": "Silverdale",
+      "url": "https://github.com/SilverdaleGames/DiskUtils.git"
+    },
+    "documentationUrl":"https://github.com/SilverdaleGames/DiskUtils.git",
+    "changelogUrl":"https://github.com/SilverdaleGames/DiskUtils/releases"
+  }
