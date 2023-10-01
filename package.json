@@ -1,6 +1,6 @@
 {
     "name": "com.silverdale.disk-utils",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "unity": "2020.1",
     "displayName": "DiskUtils",
     "keywords": ["Diks", "iOS", "Android", "Storage"],
